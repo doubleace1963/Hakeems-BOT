@@ -1,0 +1,131 @@
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: USTEC
+INFO:root:Calculated lot size for USTEC: 2.63
+INFO:root:Limit order placed successfully at 19698.4.
+INFO:root:Trade active for USTEC: SL = 19641.37, TP = 19926.52
+INFO:root:Trade active for USTEC: SL = 19641.37, TP = 19926.52
+INFO:root:Stopping the strategy execution...
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Calculated lot size for XAUUSD: 0.22
+INFO:root:Limit order placed successfully at 2501.211.
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:It's past 9:25 AM. Strategy will run tomorrow.
+INFO:root:Processing symbol: XAUUSD
+INFO:root:Order for XAUUSD at 2501.211 already exists. No new order placed.
+INFO:root:Symbol: XAUUSD
+INFO:root:Trade: Buy
+INFO:root:Level: 2501.211
+INFO:root:Stop Loss: 2494.518
+INFO:root:Take Profit: 2527.983
+INFO:root:Result: Order already exists
+INFO:root:-----------------------------------
+INFO:root:MetaTrader5 initialized
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:Stopping the strategy execution...
+INFO:root:MetaTrader5 connection closed.
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
+INFO:root:MetaTrader5 initialization failed
+INFO:root:Attempting to reconnect to MetaTrader 5...
